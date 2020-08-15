@@ -1,0 +1,39 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Nike LunarGlide 6",
+      "description": "Running shoes",
+      "image": "https://www.jing.fm/clipimg/full/201-2011424_nike-running-shoes-png-nike-running-shoe-transparent.png",
+      "price": 89
+    },
+    {
+      "id": 2,
+      "title": "Nike Air Max 270 Neon",
+      "description": "Running shoes",
+      "image": "https://i.pinimg.com/originals/37/83/12/3783124e847169fc0dcda716c8dbc9db.png",
+      "price": 159
+    },
+    {
+      "id": 3,
+      "title": "Nike Air Max 2090",
+      "description": "Running shoes",
+      "image": "https://www.pngkit.com/png/full/769-7699741_crimson-orange-and-blue-nike-shoes-black-nike.png",
+      "price": 179
+    },
+    {
+      "id": 4,
+      "title": "Nike Blazer Mid '77",
+      "description": "Lifestyle shoes",
+      "image": "https://www.pngkit.com/png/full/578-5787799_air-max-270-total-orange-best-nike-shoes.png",
+      "price": 99
+    },
+    {
+      "id": 5,
+      "title": "Nike Pegasus Trail 2",
+      "description": "Walking shoes",
+      "image": "https://www.pngkey.com/png/full/505-5056532_g2o16k3nb7b76dfrj6nq-nike-mens-free-rn-2018-running-shoes.png",
+      "price": 129
+    }
+  ]
+}
